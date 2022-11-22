@@ -10,8 +10,8 @@ The lessons are very useful for understanding Radar Signal and Data processing f
 FPGA hardware design and implementation by using advantage of high-level synthesis. 
 
 
-1. [FFT decimation-in-time (Linear Algorithm)](./doc/radar_hls_python.pdf)
-2. [Ordered-Statistic CFAR (Sorting Algorithm)](./doc/cfar-hls-python.md)
+1. [FFT decimation-in-time (Linear Algorithm)](https://github.com/farbius/radar-hls-python-pub/blob/main/doc/fft_hls_python.pdf)
+2. [Ordered-Statistic CFAR (Sorting Algorithm)](https://github.com/farbius/radar-hls-python-pub/blob/main/doc/cfar_hls_python.pdf)
 
 
 ## Structure of the repository
