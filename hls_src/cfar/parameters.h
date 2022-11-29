@@ -1,7 +1,7 @@
 
-#define NPOINTS   256
-#define REFWIND   12
-#define KTH_CELL  9
-#define Z_COEF    4096
+#define NPOINTS   1024
+#define REFWIND   40
+#define KTH_CELL  30
+#define Z_COEF    3072
 
 

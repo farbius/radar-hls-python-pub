@@ -69,7 +69,7 @@ def main():
         PFA = args.PFA
     
     curr_path = os.getcwd()
-    if (curr_path[-16:] != 'radar-hls-python'):
+    if (curr_path[-20:] != 'radar-hls-python-pub'):
         print("<< Error! Please change directory!")
         exit()
         
